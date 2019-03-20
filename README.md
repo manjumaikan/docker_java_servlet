@@ -1,6 +1,6 @@
 # java_servlet on Docker
 
-Java servlet on an Alpine Linux docker image
+Java servlet on an Alpine Linux image
 
 prerequisite:
 
